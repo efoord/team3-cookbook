@@ -18,6 +18,11 @@ METHOD
 
 RATING
 Emily - 6/10
+Julian - 8/10
+Damien - 9/10
 
 COMMENTS
 Emily - This is the vegetarian version of the original Chicken Pie recipe
+Julian - I think this will be a good vegitarian alternative.
+Damien - It's a level above pancakes but seems managable.
+
