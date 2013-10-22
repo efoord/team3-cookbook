@@ -20,11 +20,14 @@ METHOD
 
 RATING
 Julian - 7/10
+Emily - 8/10
 Damien - 8/10
 
 COMMENTS
 This is easy to change to a vegitarian dish also, just change ham for tofurkey!!!!
+Emily - Such a classic, easy recipe! Great for dinner with friends.
 Damien - I love pizza.
+=======
 
 
 References: http://www.taste.com.au/recipes/23754/mini+ham+and+pineapple+pizzas
