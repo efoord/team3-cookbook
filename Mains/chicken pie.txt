@@ -19,8 +19,10 @@ METHOD
 RATING
 Emily - 8/10
 Julian - 8.75/10
+Damien - 9/10
 
 
 COMMENTS
 Emily - Being a 4 ingredient recipe, it was very simple and easy to make. Yum!
 Julian - This looks like a nice recipe, maybe to make things easier for the party we can add a total cook time at the top under serves?
+Damien - It's a level above pancakes but seems managable.
